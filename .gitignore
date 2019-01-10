@@ -1,0 +1,2 @@
+# exclude node_modules in each app
+**/node_modules
