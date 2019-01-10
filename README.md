@@ -5,10 +5,11 @@ This repository contains three demos of react-app
 * test-app: demo of some basic usage.
 
 ### about react
-[React](https://reactjs.org) is A JavaScript library for building user interfaces
+[React](https://reactjs.org) is a JavaScript library for building user interfaces
 The three app is create with
 ```
 npx create-react-app my-app
 ```
+We need to use ```npm install --save package``` to install npm package in each app if necesseary.
 The detailed use of ```npm```could be found in the READEME.md in each app
-```npm``` and ```npx``` could installed through [https://nodejs.org](node.js)
+```npm``` and ```npx``` could installed through [node.js](https://nodejs.org)
