@@ -11,5 +11,5 @@ The three app is create with
 npx create-react-app my-app
 ```
 We need to use ```npm install --save package``` to install npm package in each app if necesseary.
-The detailed use of ```npm```could be found in the READEME.md in each app
-```npm``` and ```npx``` could installed through [node.js](https://nodejs.org)
+The detailed use of ```npm```could be found in the READEME.md in each app.  
+```npm``` and ```npx``` could be installed through [node.js](https://nodejs.org)
